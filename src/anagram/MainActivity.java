@@ -199,30 +199,78 @@ public class MainActivity extends Activity {
     		if(word.charAt(j) == 'b'||word.charAt(j) == 'B'){
     			alphabet[1] += 1;
     		}
-    		if(word.charAt(j) == 'c'||word.charAt(j) == 'C'){}
-    		if(word.charAt(j) == 'd'||word.charAt(j) == 'D'){}
-    		if(word.charAt(j) == 'e'||word.charAt(j) == 'E'){}
-    		if(word.charAt(j) == 'f'||word.charAt(j) == 'F'){}
-    		if(word.charAt(j) == 'g'||word.charAt(j) == 'G'){}
-    		if(word.charAt(j) == 'h'||word.charAt(j) == 'H'){}
-    		if(word.charAt(j) == 'i'||word.charAt(j) == 'I'){}
-    		if(word.charAt(j) == 'j'||word.charAt(j) == 'J'){}
-    		if(word.charAt(j) == 'k'||word.charAt(j) == 'K'){}
-    		if(word.charAt(j) == 'l'||word.charAt(j) == 'L'){}
-    		if(word.charAt(j) == 'm'||word.charAt(j) == 'M'){}
-    		if(word.charAt(j) == 'n'||word.charAt(j) == 'N'){}
-    		if(word.charAt(j) == 'o'||word.charAt(j) == 'O'){}
-    		if(word.charAt(j) == 'p'||word.charAt(j) == 'P'){}
-    		if(word.charAt(j) == 'q'||word.charAt(j) == 'Q'){}
-    		if(word.charAt(j) == 'r'||word.charAt(j) == 'R'){}
-    		if(word.charAt(j) == 's'||word.charAt(j) == 'S'){}
-    		if(word.charAt(j) == 't'||word.charAt(j) == 'T'){}
-    		if(word.charAt(j) == 'u'||word.charAt(j) == 'U'){}
-    		if(word.charAt(j) == 'v'||word.charAt(j) == 'V'){}
-    		if(word.charAt(j) == 'w'||word.charAt(j) == 'W'){}
-    		if(word.charAt(j) == 'x'||word.charAt(j) == 'X'){}
-    		if(word.charAt(j) == 'y'||word.charAt(j) == 'Y'){}
-    		if(word.charAt(j) == 'z'||word.charAt(j) == 'Z'){}
+    		if(word.charAt(j) == 'c'||word.charAt(j) == 'C'){
+    			alphabet[2] += 1;
+    		}
+    		if(word.charAt(j) == 'd'||word.charAt(j) == 'D'){
+    			alphabet[3] += 1;
+    		}
+    		if(word.charAt(j) == 'e'||word.charAt(j) == 'E'){
+    			alphabet[4] += 1;
+    		}
+    		if(word.charAt(j) == 'f'||word.charAt(j) == 'F'){
+    			alphabet[5] += 1;
+    		}
+    		if(word.charAt(j) == 'g'||word.charAt(j) == 'G'){
+    			alphabet[6] += 1;
+    		}
+    		if(word.charAt(j) == 'h'||word.charAt(j) == 'H'){
+    			alphabet[7] += 1;
+    		}
+    		if(word.charAt(j) == 'i'||word.charAt(j) == 'I'){
+    			alphabet[8] += 1;
+    		}
+    		if(word.charAt(j) == 'j'||word.charAt(j) == 'J'){
+    			alphabet[9] += 1;
+    		}
+    		if(word.charAt(j) == 'k'||word.charAt(j) == 'K'){
+    			alphabet[10] += 1;
+    		}
+    		if(word.charAt(j) == 'l'||word.charAt(j) == 'L'){
+    			alphabet[11] += 1;
+    		}
+    		if(word.charAt(j) == 'm'||word.charAt(j) == 'M'){
+    			alphabet[12] += 1;
+    		}
+    		if(word.charAt(j) == 'n'||word.charAt(j) == 'N'){
+    			alphabet[13] += 1;
+    		}
+    		if(word.charAt(j) == 'o'||word.charAt(j) == 'O'){
+    			alphabet[14] += 1;
+    		}
+    		if(word.charAt(j) == 'p'||word.charAt(j) == 'P'){
+    			alphabet[15] += 1;
+    		}
+    		if(word.charAt(j) == 'q'||word.charAt(j) == 'Q'){
+    			alphabet[16] += 1;
+    		}
+    		if(word.charAt(j) == 'r'||word.charAt(j) == 'R'){
+    			alphabet[17] += 1;
+    		}
+    		if(word.charAt(j) == 's'||word.charAt(j) == 'S'){
+    			alphabet[18] += 1;
+    		}
+    		if(word.charAt(j) == 't'||word.charAt(j) == 'T'){
+    			alphabet[19] += 1;
+    		}
+    		if(word.charAt(j) == 'u'||word.charAt(j) == 'U'){
+    			alphabet[20] += 1;
+    		}
+    		if(word.charAt(j) == 'v'||word.charAt(j) == 'V'){
+    			alphabet[21] += 1;
+    		}
+    		if(word.charAt(j) == 'w'||word.charAt(j) == 'W'){
+    			alphabet[22] += 1;
+    		}
+    		if(word.charAt(j) == 'x'||word.charAt(j) == 'X'){
+    			alphabet[23] += 1;
+    		}
+    		if(word.charAt(j) == 'y'||word.charAt(j) == 'Y'){
+    			alphabet[24] += 1;
+    		}
+    		if(word.charAt(j) == 'z'||word.charAt(j) == 'Z'){
+    			alphabet[25] += 1;
+    		}
     	}
     	return alphabet;
     }
